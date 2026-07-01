@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6r0003/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 迦丁比丘說當來變經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T49/T49n2028.xml
+    old_id: T49n2028
+hash: sha256:dbedf01f54a16d55df815282ba8975f2109fb14b7021c96a4cd6c5004ffe11f2

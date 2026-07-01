@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR6r0003/v1
+canonical_location: https://kanripo.org/bkk/KR6r0003/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 迦丁比丘說當來變經
+  identifiers:
+    alt_id:
+    - T49n2028
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T49/T49n2028.xml
+    old_id: T49n2028
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0003_000.yaml, hash: 'sha256:dbedf01f54a16d55df815282ba8975f2109fb14b7021c96a4cd6c5004ffe11f2'}
+  - {seq: 1, filename: KR6r0003_001.yaml, hash: 'sha256:453becc10e93f7cd07ac05b5402ff9afbd333fdedb00b516c31fb62cf235d435'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6r0003_001.markers.yaml, hash: 'sha256:1b45ef08755c8de5b961b52b1e0717e8bcb7f5216581ec99d07cdde00523ce9e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6r0003_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3753
+  label: 迦丁比丘說當來變經
+  type: juan
+  level: 1
+hash: sha256:998b2f46ad7970ca857ca25c297d3ac94db5596b5dd777b10be007fce72351de
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
