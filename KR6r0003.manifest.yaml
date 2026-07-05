@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6r0003_000.yaml, hash: 'sha256:dbedf01f54a16d55df815282ba8975f2109fb14b7021c96a4cd6c5004ffe11f2'}
-  - {seq: 1, filename: KR6r0003_001.yaml, hash: 'sha256:453becc10e93f7cd07ac05b5402ff9afbd333fdedb00b516c31fb62cf235d435'}
+  - {seq: 1, filename: KR6r0003_001.yaml, hash: 'sha256:8bf7fc870b9ddba7f63c9e9ac430b85fe047014e028fdf26593367b87171b3ac'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6r0003_001.markers.yaml, hash: 'sha256:1b45ef08755c8de5b961b52b1e0717e8bcb7f5216581ec99d07cdde00523ce9e'}
+  - {seq: 0, role: markers, filename: assets/KR6r0003_000.markers.yaml, hash: 'sha256:ec12dfdbbca6c52cffc4b5db32620b9e15ab43bebe4d201ac7d5918d1e975357'}
+  - {seq: 1, role: markers, filename: assets/KR6r0003_001.markers.yaml, hash: 'sha256:50eaae34901e0937d81a2c96c154af51d1a73dd6f1866f10d45c055344c0188d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 迦丁比丘說當來變經
   type: juan
   level: 1
-hash: sha256:998b2f46ad7970ca857ca25c297d3ac94db5596b5dd777b10be007fce72351de
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:2ecf4da961b9b330c5e7c1348d80a8b8b65b0f320b171ae673bb24b5cae7f5b7
