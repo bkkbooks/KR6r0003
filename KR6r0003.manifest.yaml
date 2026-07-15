@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6r0003/v1
 canonical_location: https://kanripo.org/bkk/KR6r0003/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 迦丁比丘說當來變經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6r0003_000.yaml, hash: 'sha256:dbedf01f54a16d55df815282ba8975f2109fb14b7021c96a4cd6c5004ffe11f2'}
-  - {seq: 1, filename: KR6r0003_001.yaml, hash: 'sha256:8bf7fc870b9ddba7f63c9e9ac430b85fe047014e028fdf26593367b87171b3ac'}
+  - {seq: 1, filename: KR6r0003_001.yaml, hash: 'sha256:74f6adffb5067762cead1f990dbe48a0f9da0eb7b4a091fd417556932e70c26c'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6r0003_000.markers.yaml, hash: 'sha256:ec12dfdbbca6c52cffc4b5db32620b9e15ab43bebe4d201ac7d5918d1e975357'}
-  - {seq: 1, role: markers, filename: assets/KR6r0003_001.markers.yaml, hash: 'sha256:50eaae34901e0937d81a2c96c154af51d1a73dd6f1866f10d45c055344c0188d'}
+  - {seq: 1, role: markers, filename: assets/KR6r0003_001.markers.yaml, hash: 'sha256:1676cc36eeedf1448f8d00c7a225d39040975c2fa77b82594ed4d139ac492f9e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 迦丁比丘說當來變經
   type: juan
   level: 1
-hash: sha256:2ecf4da961b9b330c5e7c1348d80a8b8b65b0f320b171ae673bb24b5cae7f5b7
+hash: sha256:996e4ce21c1dea28cd57adac47b7250fb3ac398823bee23fbd9be17cd65ac8e7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
